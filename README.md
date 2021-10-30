@@ -1,7 +1,9 @@
 # count-patterns-in-file.py
 Project to create a way to search files for specific patterns in a file
 ```
-This file counts the number of times a string appears in a filename, prints the result then saves the line numbers found
+This file counts the number of times a string appears in a file
+of the users choosing, and prints this amount,
+then the program saves the line numbers (and the line number contents) found
 to a file called "line_numbers.txt"
 ```
 ---
