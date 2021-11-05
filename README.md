@@ -7,5 +7,6 @@ then the program saves the line numbers (and the line number contents) found
 to a file called "line_numbers.txt"
 ```
 ---
-* Reason for creating this was to able to search yaml files created by SaltStack for specific information
+* Reason for creating this was to able to search yaml files created by SaltStack for specific information when a better editor wasn't available
+* For instance this script can be run via the app "Pythonista" on iPhones and iPads, etc
 
